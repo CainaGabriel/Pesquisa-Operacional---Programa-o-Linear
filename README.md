@@ -29,3 +29,5 @@ sujeito a.:
 x, y >= 0
 
 O meu Objetivo era criar um código capaz de resolver qualquer problema, seja ele qual for, apenas informando as variáveis. 
+
+Nome do integrante: Cainã Gabriel de Sá Amantea Senra Alves
