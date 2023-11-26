@@ -18,5 +18,6 @@ A Programação Linear (PL) é um método matemático utilizado para otimizar o 
 
 No meu código é possivel verificar que caso você queira testar ele com qualquer problema de otimização, você consegue encontrar sua solução otima a partir dos dados fornecidos para o código.
 Caso não seja encontrado a Solução o código dirá que não há solução ótima.
+Utilizei o método de razão mínima para ser desolvido o código.
 
 O meu Objetivo era criar um código capaz de resolver qualquer problema, seja ele qual for, apenas informando as variáveis. 
