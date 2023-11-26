@@ -20,4 +20,12 @@ No meu código é possivel verificar que caso você queira testar ele com qualqu
 Caso não seja encontrado a Solução o código dirá que não há solução ótima.
 Utilizei o método de razão mínima para ser desolvido o código.
 
+Também deixei um código que ja existem um exemplo dentro com uma função existente, caso queria apenas verificar o codigo funcionando:
+Maximizar:
+Z = 3x + 2y
+sujeito a.:
+2x+y <= 20
+4x + 5y >= 10
+x, y >= 0
+
 O meu Objetivo era criar um código capaz de resolver qualquer problema, seja ele qual for, apenas informando as variáveis. 
